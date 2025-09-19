@@ -30,9 +30,11 @@ Developed by:
 RegisterNumber: 
 */
 ```
+<img width="283" height="227" alt="image" src="https://github.com/user-attachments/assets/8940474b-5a35-42de-8bed-9592f854bafd" />
 
 ## Output:
 ![lu decomposition]()
+<img width="1212" height="457" alt="image" src="https://github.com/user-attachments/assets/4c117167-a3d2-453a-8edc-3f6c10e1d0a8" />
 
 
 ## Result:
